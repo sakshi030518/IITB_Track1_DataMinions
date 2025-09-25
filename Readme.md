@@ -1,7 +1,12 @@
 [README.md](https://github.com/user-attachments/files/22545572/README.1.md)
 # Effect of Feedback on Cognitive & Affective Measures
 **Group:** Data Minions  
+### 🧩 Project Summary  
 
+This project analyzes the performance of postgraduate students on **mental rotation tasks** under different conditions.  
+We used **cognitive measures** (accuracy, response time) and **affective measures** (EEG and GSR signals).  
+The effect of **feedback** was studied using statistical analysis (ANOVA).  
+Results show how feedback influences both task performance and physiological responses.  
 ---
 
 ## A. Problem Statement  
